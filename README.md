@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rajoy Says...
 
 "Rajoy Says..." is a fun project that displays random quotes from a JSON file when a button is clicked. The quotes are humorous and taken from famous sayings of a Spanish politician. The application is built using Python's Tkinter library.
@@ -35,3 +36,7 @@ Run the application by executing the following command:
 
 ```bash
 python rajoy_says.py
+=======
+# rajoy_quotes
+rajoy quotes maker
+>>>>>>> 130375aab5572e3e26b03f1a7c62cca2648cda4d
